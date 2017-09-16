@@ -1,0 +1,16 @@
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\App.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\api\response\BaseResponse.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\utils\TaskComplitedTable.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\api\service\TasksService.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\entity\ColorPreserveTask.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\api\response\ResponseBuilder.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\entity\FinishTask.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\entity\CustomizedTask.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\utils\PropertiesReader.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\entity\ModelTask.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\api\request\AddModelTask.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\api\service\FileService.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\conf\Conf.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\entity\BaseTask.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\utils\TaskQueue.java
+D:\WorkSpace\EclipseNeon\transferWebService\src\main\java\hdu\shawn\utils\FileTest.java

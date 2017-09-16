@@ -1,0 +1,16 @@
+hdu\shawn\api\service\TasksService.class
+hdu\shawn\entity\BaseTask.class
+hdu\shawn\conf\Conf.class
+hdu\shawn\utils\TaskComplitedTable.class
+hdu\shawn\api\response\BaseResponse.class
+hdu\shawn\api\service\FileService.class
+hdu\shawn\entity\ColorPreserveTask.class
+hdu\shawn\utils\FileTest.class
+hdu\shawn\utils\TaskQueue.class
+hdu\shawn\entity\CustomizedTask.class
+hdu\shawn\api\request\AddModelTask.class
+hdu\shawn\api\response\ResponseBuilder.class
+hdu\shawn\entity\ModelTask.class
+hdu\shawn\entity\FinishTask.class
+hdu\shawn\utils\PropertiesReader.class
+hdu\shawn\App.class
